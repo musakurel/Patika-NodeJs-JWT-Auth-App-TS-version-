@@ -43,7 +43,7 @@ Now, you can start your Auth app!
 npm start
 ``` 
 
-[Link of github repo](https://github.com/musakurel/Patika-NodeJs-JWT-Auth-App-TS-version-)
+[Link of github  repo](https://github.com/musakurel/Patika-NodeJs-JWT-Auth-App-TS-version-)
 
 
 
